@@ -7,4 +7,5 @@
 - 😋 **Beside computer science:** I'm quite intersed in biology and math - these ones are my favorite subjects. My hobbies are playing videogames *(fav ones: Resident evil, The last of us, Life is strange, The witcher 3, etc.),* watching series in original *(Shameless, Yellowjackets, House M.D, etc.).* I used to draw and do web design, participate in vocal and hip-hop dance studio. When I have free time I like photographing, skiing and cooking. That's all too basic but it'll help you to get to know me better!
 - 📫 **How to reach me:**
 *Telegram - @malechkaaaa*
-- ⚡ **Fun fact:** I love gossips but I hate gossips about me.
+![Изображение](https://web.telegram.org/6332cb43-27d2-49c7-8922-c52aeccb7124)
+- ⚡ **Fun fact:** I can adapt very well and I'd like every line of work if I had no choise. So even if I started studying in Sirius without any computer science base I think it'll come to me sooner or later thanks to my perseverance and ambition.
