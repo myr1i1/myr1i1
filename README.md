@@ -6,5 +6,5 @@
 ![Изображение](https://i.pinimg.com/736x/9a/18/55/9a185537c55257fcc04adb05765e827a.jpg)
 - 😋 **Beside computer science:** I'm quite intersed in biology and math - these ones are my favorite subjects. My hobbies are playing videogames *(fav ones: Resident evil, The last of us, Life is strange, The witcher 3, etc.),* watching series in original *(Shameless, Yellowjackets, House M.D, etc.).* I used to draw and do web design, participate in vocal and hip-hop dance studio. When I have free time I like photographing, skiing and cooking. That's all too basic but it'll help you to get to know me better!
 - 📫 **How to reach me:**
-- *Telegram - @malechkaaaa*
+*Telegram - @malechkaaaa*
 - ⚡ **Fun fact:** I love gossips but I hate gossips about me.
