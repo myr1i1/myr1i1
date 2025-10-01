@@ -11,3 +11,14 @@
 - 📫 **How to reach me:**
 - *Telegram - @malechkaaaa*
 - ⚡ **Fun fact:** I can adapt very well and I'd like every line of work if I had no choise. So even if I started studying in Sirius without any computer science base I think there's nothing wrong with it. It'll come to me sooner or later thanks to my perseverance and ambition.
+## 🎯 My goals
+- [x] Create README
+- [ ] Learn Python, C, C++, Java, JS
+- [ ] Create a website
+- [ ] Create a telegram bot, calculator, translator or an app.
+<details>
+<summary>Мемчик</summary>
+
+HelloWorld("print")
+![HelloWorld](https://i.pinimg.com/736x/3a/38/13/3a381354b11429c97b2f6dce07d7ba82.jpg)
+</details>
